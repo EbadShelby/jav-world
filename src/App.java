@@ -120,7 +120,8 @@ public class App {
         }while (name.isBlank());
 
         System.out.println(STR."what's up \{name}"); */
-
-        
     }
+        for(int i=0; i<=10; i++) {
+            System.out.println(i);
+        }
 }
